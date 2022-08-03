@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+.vercel
+.output
+.bundle
+.cache
+.DS_Store
+.sass-cache
+build/
+*.gem
+*.rbc
